@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">REAL BEAT TRX</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="basket_text">In the basket</string>
+
+    <!-- Ürün başlıkları -->
+    <string name="product_1">QCY H2 Pro Over-Ear Bluetooth Headphones</string>
+    <string name="product_1_price">$39.90</string>
+    <string name="product_2">PHILIPS TAH4209PK Wireless Over-Ear Headphones</string>
+    <string name="product_2_price">$34.99</string>
+    <string name="product_3">Tune Purple 720BT Over-Ear Wireless Headphones</string>
+    <string name="product_3_price">$24.99</string>
+</resources>

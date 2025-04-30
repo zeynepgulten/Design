@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FFFFFFFF</color>
+    <color name="white">#FF000000</color>
+
+    <color name="anaRenk">#2E4C3B</color>
+    <color name="font">#F0FFF5</color>
+    <color name="button">#4BAF82</color>
+    <color name="arka">#1A1F1C</color>
+</resources>

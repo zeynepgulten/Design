@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">REAL BEAT TRX</string>
+    <string name="add_to_cart">Sepete ekle</string>
+    <string name="basket_text">Sepette</string>
+
+    <!-- Ürün başlıkları -->
+    <string name="product_1">QCY H2 Pro Kulak Üstü Bluetooth Kulaklık</string>
+    <string name="product_1_price">1.299,90 ₺</string>
+    <string name="product_2">PHILIPS TAH4209PK Kablosuz Kulak Üstü Kulaklık</string>
+    <string name="product_2_price">1.149,99 ₺</string>
+    <string name="product_3">Tune Purple 720BT Kulak Üstü Kablosuz Kulaklık</string>
+    <string name="product_3_price">849,99 ₺</string>
+</resources>
